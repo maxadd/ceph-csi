@@ -1,0 +1,1 @@
+[官方文档](https://docs.ceph.com/en/latest/rbd/rbd-kubernetes/)稀烂。
